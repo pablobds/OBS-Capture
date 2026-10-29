@@ -31,6 +31,8 @@ pkg update && pkg install ffmpeg x11-utils -y
 ```
 
 ```bash
+wget https://raw.githubusercontent.com/pablobds/OBS-Capture/refs/heads/main/obs
+
 chmod +x obs
 ```
 
